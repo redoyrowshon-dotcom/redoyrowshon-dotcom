@@ -1,65 +1,24 @@
-# 👨‍💻 Hi there, I'm M. Redoy Rowshon 👋
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>Hi! I'm **M. Ahsan Ullah Redoy**, a Cybersecurity Researcher and Web Application Security Enthusiast from Bangladesh.<br><br>I am currently focused on **Bug Hunting, Web Application Security, and Web Hacking**. I enjoy exploring web technologies, understanding how applications work, identifying security vulnerabilities, and researching ways to improve digital security.<br><br>### 🔐 Areas of Interest & Expertise<br>- Web Application Security<br>- Bug Hunting & Vulnerability Research<br>- Web Penetration Testing<br>- OWASP Top 10<br>- API Security Testing<br>- Vulnerability Assessment<br>- Security Research & Analysis<br>- Linux-Based Security Testing<br><br>### 💻 Programming & Technical Skills<br>- **Programming:** Python, C, Java<br>- **Web Technologies:** HTML, CSS, JavaScript<br>- **Operating Systems:** Kali Linux, Linux<br>- **Security:** Burp Suite, Nmap, Nuclei, and other security testing tools<br><br>### 🚀 My Mission<br><br>My goal is to continuously improve my cybersecurity knowledge, discover security vulnerabilities through authorized testing, develop useful security tools, and contribute to making the digital world safer.<br><br>**Always Learning | Always Researching | Always Improving**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redoyrowshon-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/redoyrowshon-dotcom">
-    <img src="https://github.com/redoyrowshon-dotcom.png?size=200" align="center" width="180px" style="border-radius: 50%; border: 5px solid #eaecef; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 10px;" alt="M. Redoy Rowshon Profile Picture"/>
-  </a>
-</p>
-<p align="center">
-  <b>🛡️ Cybersecurity Enthusiast & Ethical Hacker</b><br>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-redoy-rowshon-2a0406424) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Redoy Rowshon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redoyrowshon@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=redoyrowshon-dotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=redoyrowshon-dotcom&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=redoyrowshon-dotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Passionate about discovering vulnerabilities and securing digital landscapes. I specialize in Linux environments and love automating security tasks with Python.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=redoyrowshon-dotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 **Focusing on:** Advanced Penetration Testing & Red Teaming.
-- 🐚 **Linux Power User:** Expert in terminal operations and system security.
-- 🐍 **Scripting:** Crafting automated tools using Python and C.
-- 🌐 **Web Basics:** Strong foundation in HTML5 and CSS3 for web security analysis.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=redoyrowshon-dotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=redoyrowshon-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Web:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Cybersecurity & OS:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=redoyrowshon-dotcom&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoyrowshon-dotcom&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📬 Connect with me
-
-<p align="center">
-  <a href="mailto:redoyc17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
